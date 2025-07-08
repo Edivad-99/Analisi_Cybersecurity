@@ -16,9 +16,9 @@ Analisi testuale di incidenti cyber globali (dati Kaggle/CFR)
 - Text mining e analisi semantica su descrizioni testuali di attacchi
 
 # Dataset utilizzati
-Eurostat - ICT Security in Enterprise (2021-2022)
-ISTAT - Imprese e ICT (2021-2022)
-CFR - Cyber incidents from 2005 to 2020 (da Kaggle)
+- Eurostat - ICT Security in Enterprise (2021-2022)
+- ISTAT - Imprese e ICT (2021-2022)
+- CFR - Cyber incidents from 2005 to 2020 (da Kaggle)
 
 # Risultati principali
 Identificati 3 cluster distinti di imprese italiane in base alla maturità della loro sicurezza ICT.
