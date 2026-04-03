@@ -1,32 +1,31 @@
-# Project #1: Analisi_Cybersecurity
-Questo progetto esplora la cybersecurity nelle imprese europee e italiane tramite un approccio multidimensionale, integrando analisi statistica multivariata, cluster analysis e text mining. L'obiettivo è comprendere l’adozione delle misure ICT, l’impatto degli incidenti informatici e l’emergere di minacce globali.
-Il lavoro è suddiviso in tre sezioni principali:
+# Project #1: Cybersecurity_Analysis
+This project explores cybersecurity within European and Italian enterprises through a multidimensional approach, integrating multivariate statistical analysis, cluster analysis, and text mining. The objective is to understand the adoption of ICT measures, the impact of cyber incidents, and the emergence of global threats.
 
-Analisi a livello europeo (dati Eurostat)
+The work is divided into three main sections:
 
-Focus sulle imprese italiane (dati ISTAT)
+- European-level analysis (Eurostat data)
+- Focus on Italian enterprises (ISTAT data)
+- Textual analysis of global cyber incidents (Kaggle/CFR data)
 
-Analisi testuale di incidenti cyber globali (dati Kaggle/CFR)
+Techniques Used
+- Descriptive statistics and Analysis of Variance (ANOVA)
+- Principal Component Analysis (PCA)
+- Cluster Analysis and Hierarchical Clustering on Principal Components (HCPC)
+- Latent Dirichlet Allocation (LDA) and topic modelling
+- Text mining and semantic analysis on attack descriptions
 
-# Tecniche utilizzate
-- Statistica descrittiva e analisi della varianza
-- Analisi delle Componenti Principali (ACP/PCA)
-- Cluster Analysis e HCPC
-- Latent Dirichlet Allocation (LDA) e topic modelling
-- Text mining e analisi semantica su descrizioni testuali di attacchi
+Datasets Used
+- Eurostat – ICT Security in Enterprise (2021-2022)
+- ISTAT – Enterprises and ICT (2021-2022)
+- CFR – Cyber incidents from 2005 to 2020 (via Kaggle)
 
-# Dataset utilizzati
-- Eurostat - ICT Security in Enterprise (2021-2022)
-- ISTAT - Imprese e ICT (2021-2022)
-- CFR - Cyber incidents from 2005 to 2020 (da Kaggle)
+Key Findings
+- Identified 3 distinct clusters of Italian companies based on their ICT security maturity.
+- Biometrics emerged as an independent and innovative factor compared to other security measures.
+- The ICT, telecommunications, and postal services sectors show the highest levels of security measure adoption.
+- Text mining highlighted 5 recurring macro-themes in cyberattacks, related to cyber-espionage, APTs (Advanced Persistent Threats), and geopolitical threats.
 
-# Risultati principali
-Identificati 3 cluster distinti di imprese italiane in base alla maturità della loro sicurezza ICT.
-Il biometrico emerge come fattore indipendente e innovativo rispetto ad altre misure.
-I settori ICT, telecomunicazioni e servizi postali mostrano i livelli più alti di adozione delle misure di sicurezza.
-Il text mining ha evidenziato 5 macro-temi ricorrenti negli attacchi informatici, legati a cyber-spionaggio, APT e minacce geopolitiche.
-
-# Tecnologie e strumenti
-- R (per ACP e cluster analysis)
-- Canva (Presentazione finale)
+Technologies and Tools
+- R 
+- Canva
 
