@@ -27,7 +27,6 @@ I settori ICT, telecomunicazioni e servizi postali mostrano i livelli più alti 
 Il text mining ha evidenziato 5 macro-temi ricorrenti negli attacchi informatici, legati a cyber-spionaggio, APT e minacce geopolitiche.
 
 # Tecnologie e strumenti
-- Python (pandas, matplotlib, seaborn, sklearn, gensim)
 - R (per ACP e cluster analysis)
 - Canva (Presentazione finale)
 
